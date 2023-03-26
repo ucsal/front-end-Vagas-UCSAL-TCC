@@ -64,7 +64,16 @@ https://docs.google.com/document/d/1pUmGXM26cAmGU0ILpeAwItW3_RYZxT8M3d-Cp0HCTpo/
 
 <div>   
 <details>
-    <summary><b>✨&nbsp;&nbsp;Tecnologias :&nbsp;</b></summary>
+    <summary><b>✨&nbsp;&nbsp;mockup front end:&nbsp;</b></summary>
+    <br/>
+ ![image](https://user-images.githubusercontent.com/54041918/227759536-43961d59-3608-46a3-a21e-ef97c95a6265.png)
+
+</details>
+</div>
+
+<div>   
+<details>
+    <summary><b>✨&nbsp;&nbsp;Tecnologias:&nbsp;</b></summary>
     <br/>
  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
  </a>
