@@ -68,15 +68,6 @@ https://docs.google.com/document/d/1pUmGXM26cAmGU0ILpeAwItW3_RYZxT8M3d-Cp0HCTpo/
 
 <div>   
 <details>
-    <summary><b>✨&nbsp;&nbsp;mockup front end:&nbsp;</b></summary>
-    <br/>
- 
-
-</details>
-</div>
-
-<div>   
-<details>
     <summary><b>✨&nbsp;&nbsp;Tecnologias:&nbsp;</b></summary>
     <br/>
  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
