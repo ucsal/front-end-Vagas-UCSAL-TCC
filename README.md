@@ -1,7 +1,6 @@
 # front-end-Vagas-UCSAL-TCC
-Front-end application
-# Chatbot-Vagas-UCSAL-TCC
-Portal de Vagas usando Chatbot interativo
+Front-end application, portal de Vagas usando Chatbot interativo
+
 
 <div>
     <details>
