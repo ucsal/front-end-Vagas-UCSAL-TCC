@@ -38,7 +38,7 @@ login developer ucsal:
 
 
 MVP:
-https://www.figma.com/proto/uTTNYjg1NDY8v41NThY6hB/Portal-de-Vagas-UCSAL---MVP?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1
+https://www.figma.com/file/ZrXeMJWy9tmvkgKN95kQSc/Portal-Vagas-Ucsal---ChatBot?node-id=0%3A1&t=cgHQ71FzJUJ8Yvxb-1
 
 Artigos base:
 
